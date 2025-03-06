@@ -16,6 +16,8 @@ Team Members
 2. Collaboration & References
 - Consulted Rutgers iLab resources and CS336 lecture notes.
 - Collaboration was mainly focused on accessing the ilab and designing the ER diagram.
+- Used the SERIAL type for the ID Column which "auto-increments integers for columns"
+   - https://www.geeksforgeeks.org/postgresql-serial/
 
 -------------------------------------------
 3. Data Insights & Entity Division Rules
