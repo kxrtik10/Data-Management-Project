@@ -2,10 +2,11 @@
 Project 0: Database Setup and Data Upload
 ==========================================
 
-0. Team Members
-1.
+Team Members
+1. Kartik Seth (ks2221)
 2. Jeongtae Kim (jk2065)
 3.
+4.
 
 ----------------------------------------
 1. Known Issues & Unfinished Functions
@@ -24,7 +25,7 @@ Data Insights
 - Co-applicants may improve approval chances.
 - Loan application patterns vary by region.
 - Different lenders specialize in different loan types.
-
+  
 Entity Division
 - LoanApplication: Core entity for loan records.
 - Applicant: Stores primary applicant details.
@@ -35,5 +36,6 @@ Entity Division
 
 ----------------------------------------
 4. Development Challenges & Time Spent
-
+Challenges
+- Creating the table where handwriting the one line containing all the tabs and seperating each tab with a comma and VARCHAR(255) was time-consuming. (1 1/2 hours)
 
