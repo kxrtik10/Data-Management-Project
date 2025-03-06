@@ -40,4 +40,8 @@ Entity Division
 4. Development Challenges & Time Spent
 Challenges
 - Creating the table where handwriting the one line containing all the tabs and seperating each tab with a comma and VARCHAR(255) was time-consuming. (1 1/2 hours)
-
+  
+Time Spent
+- In creating the E.R. Diagram, it took approximately 4-5 hours as going through the data was time consuming with the addition of having to keep in mind the tabs that must fall in their respective tables.
+- Creating the Table took 1 1/2 hours but figuring out the procedure of uploading the CSV file and etc, the process took 2 additonal hours.
+- So all in all, the time spent on the project took 8-9 hours. 
