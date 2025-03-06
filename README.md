@@ -10,7 +10,6 @@ Team Members
 
 ----------------------------------------
 1. Known Issues & Unfinished Functions
-- No known issues. Everything works as expected.
 - Table could be formatted better
 
 --------------------------------
