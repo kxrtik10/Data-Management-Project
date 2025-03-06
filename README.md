@@ -5,8 +5,8 @@ Project 0: Database Setup and Data Upload
 Team Members
 1. Kartik Seth (ks2221)
 2. Jeongtae Kim (jk2065)
-3.
-4.
+3. Heyun Kim (HLK47)
+4. Prabhdeep Mander (pm842)
 
 ----------------------------------------
 1. Known Issues & Unfinished Functions
